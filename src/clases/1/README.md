@@ -2,7 +2,6 @@
 **Fecha**: 22 Agosto 2024
 
 **Docente**: Ana María Martínez L. anamaria.martinez@uv.cl
-}
 
 # 1. Objetivos
 
