@@ -1,7 +1,6 @@
 Economía clase 4
 26/09
 
-
 teoría de la firma, se base en 3 componentes
 1. Tecnología de producción, como transformar factores de producción, (capital, trabajo) y materias primas para lograr el producto final, o servicio
 
