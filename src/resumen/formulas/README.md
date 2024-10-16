@@ -5,12 +5,12 @@
    Q = K + L
    ```
    ```math
-   Q = (AK)^\alpha \cdot L^{1-\alpha}
+   Q = (A \cdot K)^\alpha \cdot L^{1-\alpha}
    ```
 
 2. **Crecimiento porcentual de la producción:**
    ```math
-   \%ΔY ≈ (\%ΔA) + \alpha(\%ΔK) + (1 - \alpha)(\%ΔL)
+   \%ΔY ≈ \%ΔA + \alpha \cdot \%ΔK + (1 - \alpha) \cdot \%ΔL
    ```
 
 3. **Costos:**
@@ -18,17 +18,17 @@
    ```math
    CT = CF + CV(q)
    ```
-   - Costo Fijo Promedio:
+   - Costo Fijo Promedio (Costo Medio Fijo):
    ```math
-   CFP = \frac{CF}{q}
+   CMeF = \frac{CF}{q}
    ```
-   - Costo Variable Promedio:
+   - Costo Variable Promedio (Costo Medio Variable):
    ```math
-   CVP = \frac{CV}{q}
+   CMeV = \frac{CV}{q}
    ```
-   - Costo Total Promedio:
+   - Costo Total Promedio (Costo Medio Total):
    ```math
-   CTP = \frac{CF + CV}{q}
+   CMe = CMeF + CMeV = \frac{CF + CV}{q}
    ```
    - Costo Marginal:
    ```math
@@ -54,8 +54,8 @@
    - Si \( IMg < CMg \), disminuir \( Q \).
 
 6. **Condición de Cierre:**
-   - Si \( P < CVMe \), la empresa debería cerrar.
-   - Si \( CVMe < P < CTMe \), la empresa debería continuar produciendo.
+   - Si \( P < CMeV \), la empresa debería cerrar.
+   - Si \( CMeV < P < CMe \), la empresa debería continuar produciendo.
 
 7. **Maximización de Beneficios:**
    ```math
